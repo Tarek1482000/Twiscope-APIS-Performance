@@ -1,0 +1,6 @@
+Label, Users,Average Time Response (ms),Min Time Response (ms),Max Time Response (ms),Error %
+Report API:Register,1000,3682,260,34360,100.00%
+Report API:Login,1000,3804,91,37454,100.00%
+Report API:Contact,1000,288,253,1480,100.00%
+Report API:Report,1000,90,85,402,100.00%
+TOTAL,4000,1966,85,37454,100.00%
